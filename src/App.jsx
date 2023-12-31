@@ -29,8 +29,8 @@ const siteProps = {
   email: "Vivek.Dubey@studentambassadors.com",
   gitHub: "vivekd01",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/dubey-vivek/",
-  medium: "https://medium.com/@vd3788504/about",
+  linkedIn: "dubey-vivek/",
+  medium: "vd3788504",
   twitter: "microsoft",
   youTube: "Code",
 };
